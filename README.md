@@ -1,0 +1,2 @@
+# TSP_SimulatedAnnealing
+This is an implementation of TSP problem in C++ using Simulated Annealing algorithm. I have made a slight modification in the algorithm which increases the performance. It essentially increases the exploration if the algorithm is stuck at a sub-optimal solution for a long time. This project was developed as an assignment of Artificial Intelligence (CS305) course, under the guidance of Dr. Deepak Khemani at IIT Mandi 
